@@ -8,6 +8,17 @@ This repository contains publicly available data, research notes, and analytical
 
 Published by [QSR Pro](https://qsr.pro) - independent, data-driven coverage of the QSR industry.
 
+## Guides
+
+| Guide | Description |
+|-------|-------------|
+| [QSR Industry KPIs 2026](guides/qsr-industry-kpis-2026.md) | Key performance indicators and benchmarks for QSR operators |
+| [QSR Drive-Thru Technology Landscape 2026](guides/qsr-drive-thru-technology-2026.md) | Voice AI vendors, automation tech, and deployment data for drive-thru operations |
+| [QSR Digital Transformation Roadmap](guides/qsr-digital-transformation-roadmap.md) | Technology adoption framework for QSR operators |
+| [QSR Franchise ROI Calculator](guides/qsr-franchise-roi-calculator.md) | Unit economics and investment return modeling |
+| [QSR Supply Chain Disruption Tracker](guides/qsr-supply-chain-disruption-tracker.md) | Commodity and supply chain risk monitoring |
+| [Restaurant Site Selection Checklist](guides/restaurant-site-selection-checklist.md) | Data-driven site evaluation framework |
+
 ## Coverage Areas
 
 - **Franchise Cost Analysis**: Unit economics and investment requirements sourced from Franchise Disclosure Documents (FDDs) for 50+ QSR brands
