@@ -12,6 +12,7 @@ Published by [QSR Pro](https://qsr.pro) - independent, data-driven coverage of t
 
 | Guide | Description |
 |-------|-------------|
+| [QSR Restaurant Closures Tracker 2026](guides/qsr-restaurant-closures-tracker-2026.md) | Chain-by-chain closure data, financial metrics, and watch list for at-risk brands |
 | [QSR Industry KPIs 2026](guides/qsr-industry-kpis-2026.md) | Key performance indicators and benchmarks for QSR operators |
 | [QSR Drive-Thru Technology Landscape 2026](guides/qsr-drive-thru-technology-2026.md) | Voice AI vendors, automation tech, and deployment data for drive-thru operations |
 | [QSR Digital Transformation Roadmap](guides/qsr-digital-transformation-roadmap.md) | Technology adoption framework for QSR operators |
